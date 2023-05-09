@@ -1,0 +1,1 @@
+<a href="{{route('next.page')}}">Next page</a>
